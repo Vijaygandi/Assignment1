@@ -34,3 +34,4 @@ jobs:
         coverage run test_*.py
         coverage html
         pydoc3 -w .
+        
